@@ -4,7 +4,7 @@
 
 ## プロジェクト構成
 
-```
+```bash
 pandera-validation-demo/
 ├── pyproject.toml        # Poetry設定ファイル
 ├── README.md             # プロジェクト説明
@@ -58,4 +58,3 @@ poetry run pytest -v
 - カスタムバリデーション関数
 - データフレームレベルの検証
 
-詳細はソースコードのドキュメントを参照してください。
